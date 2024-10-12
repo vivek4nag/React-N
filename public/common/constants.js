@@ -10,6 +10,8 @@ export const FOODFIRE_API_URL = `${process.env.REACT_FOODFIRE_APP_BASE_URL}resta
 // Swiggy API to get Restaurant Menu data using foodfire server
 export const FOODFIRE_MENU_API_URL = `${process.env.REACT_FOODFIRE_APP_BASE_URL}menu?page-type=REGULAR_MENU&complete-menu=true&lat=21.1702401&lng=72.83106070000001&&submitAction=ENTER&restaurantId=`;
 
+// 
+
 // shimmer card unit
 export const shimmer_card_unit = 20;
 
@@ -17,17 +19,17 @@ export const shimmer_card_unit = 20;
 export const shimmer_menu_card_unit = 10;
 
 // Github - username
-export const Github_UserName = "ChetanNada";
-export const Github_Repository_Name = "Namaste-React";
+// export const Github_UserName = "ChetanNada";
+// export const Github_Repository_Name = "Namaste-React";
 
 // Github API for User
 export const Github_API_User = "https://api.github.com/users/";
 
 // Social Media Links
-export const Linkedin_Link = "https://www.linkedin.com/in/chetannada/";
-export const Twitter_Link = "https://twitter.com/ChetanNada";
-export const Github_Link = "https://github.com/chetannada";
-export const Email_Link = "mailto:call2chetannada@gmail.com";
+export const Linkedin_Link = "";
+export const Twitter_Link = "";
+export const Github_Link = "";
+export const Email_Link = "mailto:vivek4nag@gmail.com";
 
 // Github Authorization Token
 export const options = {
