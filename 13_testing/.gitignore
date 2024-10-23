@@ -16,7 +16,7 @@ dist-ssr
 .parcelrc
 babel.config.js
 jest.config.js
-coverage
+/coverage
 
 # Editor directories and files
 .vscode/*
